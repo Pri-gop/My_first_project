@@ -4,4 +4,4 @@ I'm Writing a markdown for my Git essential training
  do SSH pairing
  Create Reprository 
  check in server reprository
- 
+ found hard on config my mailid and user name into git bash
